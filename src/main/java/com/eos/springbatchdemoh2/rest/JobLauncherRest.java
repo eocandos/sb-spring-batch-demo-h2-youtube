@@ -1,3 +1,8 @@
+/****
+ * Controlador para llamar al Batch e iniciar la ejecución
+ * Retorna el id del Job
+ */
+
 package com.eos.springbatchdemoh2.rest;
 
 import org.springframework.batch.core.Job;
@@ -18,10 +23,17 @@ public class JobLauncherRest {
   
   @Autowired
   Job procesarLoteMovimientosJob;
-  
-  @PostMapping("/demo")
-  public Long demoJob() throws Exception {
-    
+
+  /***
+   * Crea un jobExcecution para iniciar la ejecución de este
+   * Usa la clase JobLauncer, llama al metodo run y le envía como parametros
+   * un job de la clase Job entre otros
+   * @return Long
+   * @throws Exception
+   */
+  @PostMapping("/run")
+  public Long runJob() throws Exception {
+
     JobExecution jobExecution = jobLoteMovimientosLauncher
         .run(procesarLoteMovimientosJob, new JobParametersBuilder()
             .addLong("idInicio", System.nanoTime())

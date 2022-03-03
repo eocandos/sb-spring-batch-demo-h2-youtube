@@ -1,0 +1,10 @@
+/Users/eocandos/projects/eo/spring-batch/sb-spring-batch-demo-h2-youtube/src/main/java/com/eos/springbatchdemoh2/processor/MovimientoItemProcessor.java
+/Users/eocandos/projects/eo/spring-batch/sb-spring-batch-demo-h2-youtube/src/main/java/com/eos/springbatchdemoh2/rest/JobLauncherRest.java
+/Users/eocandos/projects/eo/spring-batch/sb-spring-batch-demo-h2-youtube/src/main/java/com/eos/springbatchdemoh2/repository/MovimientoBancoRepository.java
+/Users/eocandos/projects/eo/spring-batch/sb-spring-batch-demo-h2-youtube/src/main/java/com/eos/springbatchdemoh2/listener/JobLoteMovimientosListener.java
+/Users/eocandos/projects/eo/spring-batch/sb-spring-batch-demo-h2-youtube/src/main/java/com/eos/springbatchdemoh2/model/MovimientoItemOut.java
+/Users/eocandos/projects/eo/spring-batch/sb-spring-batch-demo-h2-youtube/src/main/java/com/eos/springbatchdemoh2/model/MovimientoBanco.java
+/Users/eocandos/projects/eo/spring-batch/sb-spring-batch-demo-h2-youtube/src/main/java/com/eos/springbatchdemoh2/model/MovimientoItem.java
+/Users/eocandos/projects/eo/spring-batch/sb-spring-batch-demo-h2-youtube/src/main/java/com/eos/springbatchdemoh2/SpringBatchDemoH2Application.java
+/Users/eocandos/projects/eo/spring-batch/sb-spring-batch-demo-h2-youtube/src/main/java/com/eos/springbatchdemoh2/config/JobLoteMovimientosConfig.java
+/Users/eocandos/projects/eo/spring-batch/sb-spring-batch-demo-h2-youtube/src/main/java/com/eos/springbatchdemoh2/writer/MovimientoItemWriter.java

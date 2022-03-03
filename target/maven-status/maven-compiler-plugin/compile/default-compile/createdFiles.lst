@@ -1,0 +1,14 @@
+com/eos/springbatchdemoh2/model/MovimientoItemOut$MovimientoItemOutBuilder.class
+com/eos/springbatchdemoh2/config/JobLoteMovimientosConfig.class
+com/eos/springbatchdemoh2/model/MovimientoBanco.class
+com/eos/springbatchdemoh2/processor/MovimientoItemProcessor.class
+com/eos/springbatchdemoh2/writer/MovimientoItemWriter.class
+com/eos/springbatchdemoh2/model/MovimientoBanco$MovimientoBancoBuilder.class
+com/eos/springbatchdemoh2/model/MovimientoItem$MovimientoItemBuilder.class
+com/eos/springbatchdemoh2/config/JobLoteMovimientosConfig$1.class
+com/eos/springbatchdemoh2/SpringBatchDemoH2Application.class
+com/eos/springbatchdemoh2/listener/JobLoteMovimientosListener.class
+com/eos/springbatchdemoh2/repository/MovimientoBancoRepository.class
+com/eos/springbatchdemoh2/model/MovimientoItem.class
+com/eos/springbatchdemoh2/model/MovimientoItemOut.class
+com/eos/springbatchdemoh2/rest/JobLauncherRest.class
